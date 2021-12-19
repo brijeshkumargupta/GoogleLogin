@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1047762939542",
+    "firebase_url": "https://get-torrent-link-default-rtdb.firebaseio.com",
+    "project_id": "get-torrent-link",
+    "storage_bucket": "get-torrent-link.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047762939542:android:0ddcdfb5f44ab3e1749cb7",
+        "android_client_info": {
+          "package_name": "com.birjulabsinc.gettorrentlink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047762939542-sb8bfmi65qnuf84nv7e3h9bgq490d3jh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMajEK66cxy-VyCyVF8lz4ypi1Yq4honE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047762939542-sb8bfmi65qnuf84nv7e3h9bgq490d3jh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047762939542:android:3315e7e489243c65749cb7",
+        "android_client_info": {
+          "package_name": "com.cookydidi.googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047762939542-sb8bfmi65qnuf84nv7e3h9bgq490d3jh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMajEK66cxy-VyCyVF8lz4ypi1Yq4honE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047762939542-sb8bfmi65qnuf84nv7e3h9bgq490d3jh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047762939542:android:17822381b7224840749cb7",
+        "android_client_info": {
+          "package_name": "com.cookydidi.loginpractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047762939542-sb8bfmi65qnuf84nv7e3h9bgq490d3jh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMajEK66cxy-VyCyVF8lz4ypi1Yq4honE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047762939542-sb8bfmi65qnuf84nv7e3h9bgq490d3jh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

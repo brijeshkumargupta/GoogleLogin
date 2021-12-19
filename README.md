@@ -1,3 +1,3 @@
 # GoogleLogin
 
-googel login get all info of user
+google login get all info of user
